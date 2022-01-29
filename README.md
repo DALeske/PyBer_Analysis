@@ -7,12 +7,12 @@ The purpose of this analysis is to provide Pyber's leadership a summary of the r
 During the analyzed period, the majority (68%) of rides initiated within urban cities, followed by 26% of rides initiating within suburban cities, and 5% within rural cities. There number of driver in each city type corresponded with the ride volume, with 81% of the drivers from urban cities, 16% from suburban cities, and 3% from rural cities. Given the number of rides for each city type, it is not surprising that the total fares was the highest for urban cities and lowest for rural cities. However, the average fare was actually highest for rural cities and lowest for urban cities. Taking total fares and the number of drivers into account, the average fare per drive was highest for rural cities and lowest for urban cities.  Results are shown in the table below.
 
 ### Figure 1. Pyber Ride-sharing Summary for January 1, 2019 to May 8, 2019
-![Pyber Ride Summary](Analysis/Ride_summary.png)
+![Pyber Ride Summary](analysis/Ride_Summary.png)
 
 Looking at the weekly total fares by city type for the period January 1, 2019 through April 29, 2019, the same relationship noted in the overall ride summary is seen over the entire sampled period, with the highest total fares generated in urban cities and the lowest total fares generated in rural cities. Temporal increases and decreases in total fares appeared to follow the same trends by city type, as illustrated by the increase in total fares for all city types during the last week of February, 2019. After a relatively slow start in January, fares essentially remained stable for the remainder of the time period for all city types.
 
 ### Figure 2. Total Weekly Fares by City Type for the Period January 1, 2019 through April 29, 2019
-![Pyber Weekly Total Fares](Analysis/Pyber_fare_summary.png)
+![Pyber Weekly Total Fares](analysis/Pyber_fare_summary.png)
 
 ## Summary
 After reviewing the ride-sharing data for the analysis period, the following recommendations are given for consideration:
